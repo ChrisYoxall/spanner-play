@@ -1,2 +1,3 @@
-# spanner-play
-Repo to experiment with Google Spanner
+# Spanner Play
+
+Repository to experiment with Google Spanner

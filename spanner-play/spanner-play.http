@@ -1,0 +1,11 @@
+@spanner_play_HostAddress = http://localhost:5255
+
+GET {{spanner_play_HostAddress}}/orders/
+Accept: application/json
+
+###
+
+GET {{spanner_play_HostAddress}}/payments/
+Accept: application/json
+
+###
